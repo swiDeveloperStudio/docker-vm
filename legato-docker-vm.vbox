@@ -66,7 +66,7 @@
         <DeviceFilters/>
       </USB>
       <Network>
-        <Adapter slot="0" enabled="true" MACAddress="080027ED284B" cable="true" speed="0" type="82540EM">
+        <Adapter slot="0" enabled="true" MACAddress="080027ED284B" cable="true" speed="0" type="virtio">
           <DisabledModes>
             <InternalNetwork name="intnet"/>
             <NATNetwork name="NatNetwork"/>
